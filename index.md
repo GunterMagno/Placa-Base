@@ -1,67 +1,67 @@
-#**Placa Base**
+# **Placa Base**
 
-##***Evolución***
+## ***Evolución***
 
 
 
-##***Formatos de la placa base***
+## ***Formatos de la placa base***
 
 La mayoria se dividen segun el factor forma que son estandares que definen caracteristicas fisicas como el tamaño, el tipo de fuente de alimentación o la distribución de los dispositivos integrados. 
 Se pueden diferenciar en:
 
-###*Placas Base XT*###
+### *Placas Base XT*###
 
 Reciben este nombre por las siglas "eXtended Technology".
 
-###*Placas Base AT*###
+### *Placas Base AT*###
 
-###*Placas Base AXT*###
+### *Placas Base AXT*###
 
-###*Placas Base ITX*###
+### *Placas Base ITX*###
 
-###*Placas Base DTX*###
-
-
-##***Componentes***
-
-###*Zócalo del procesador (CPU Socket)*###
+### *Placas Base DTX*###
 
 
-###*Chipset*###
+## ***Componentes***
+
+### *Zócalo del procesador (CPU Socket)*###
 
 
-###*Ranuras de memoria (DIMM Slots)*###
+### *Chipset*###
 
 
-###*Ranuras de expansión (PCIe)*###
+### *Ranuras de memoria (DIMM Slots)*###
 
 
-###*Conectores de alimentación*###
+### *Ranuras de expansión (PCIe)*###
 
 
-###*Conectores SATA*###
+### *Conectores de alimentación*###
 
 
-###*Conectores M.2*###
+### *Conectores SATA*###
 
 
-###*Controladores de red*###
+### *Conectores M.2*###
 
 
-###*Puertos USB*###
+### *Controladores de red*###
 
 
-###*Salidas de audio*###
+### *Puertos USB*###
 
 
-###*BIOS/UEFI*###
+### *Salidas de audio*###
 
 
-###*Chip de sonido*###
+### *BIOS/UEFI*###
 
 
-###*Conectores de ventiladores*###
+### *Chip de sonido*###
 
 
-###*Celdas de batería*###
+### *Conectores de ventiladores*###
+
+
+### *Celdas de batería*###
 
