@@ -38,7 +38,7 @@ Reciben el nombre de las siglas "Desktop Technology eXtended", se lanzaron en 20
 ### *Zócalo del procesador (CPU Socket)*
 
 
-### *Chipset*###
+### *Chipset*
 
 
 ### *Ranuras de memoria (DIMM Slots)*
