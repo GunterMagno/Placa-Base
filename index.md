@@ -17,7 +17,7 @@ Reciben este nombre por las siglas "eXtended Technology", tienen un tamaño equi
 
 Reciben el nombre de las siglas "Advanced Technology", en 1984 se iniciaron este tipo de placas que eran mas grandes y se dividian en dos partes la sección principal donde se encontraba el zocalo, el procesador la memoria y los conectores de expasión y por otro lado estaba la seccion de alimentacion que tenia los conectores para la fuente de alimentacion, esto era para organizar el espacio y la accesibilidad a la instalacion de componentes. 
 
-### *Placas Base AXT*
+### *Placas Base ATX*
 
 Reciben el nombre de las siglas "Advanced Technology eXtended", fueron desarrolladas por Intel y se lanzaron a mediados de los años 90. Fueron las primeras que tenian conexiones exteriores y un conector de energía, se convirtieron en el estándar para ordenadores, y de este tipo también surgieron variantes como Micro-ATX, Mini ATX y E-ATX.
 
